@@ -15,7 +15,7 @@ else:
 
 class_names = ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
 
-st.title("Facial Emotion Detection")
+st.title("Sentiment Analysis")
 
 # Upload image
 uploaded_file = st.file_uploader("Upload an image", type=["jpg", "png", "jpeg"])
