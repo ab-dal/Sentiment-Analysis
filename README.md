@@ -1,4 +1,4 @@
-# 😀 Facial Emotion Detection System
+# 😀 Sentiment Analysis System
 
 ## 📌 Overview
 This project is a **deep learning-based system** that detects facial emotions from images. It classifies images into **7 emotions**: angry, disgust, fear, happy, neutral, sad, and surprise. The project uses a pre-trained **MobileNet model** with transfer learning and is deployed using **Streamlit** for an interactive web app.
